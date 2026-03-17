@@ -13,6 +13,9 @@ new features
 - Image configuration is possible while RTSP is streaming
 - Added configurability for Stream-VLAN-ID
 - Added Configure IP via MAC function
+- Flow Control enabled on Ethernet variant (MCDE7xxxA) 
+
+
 
 
   
