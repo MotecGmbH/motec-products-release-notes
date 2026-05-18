@@ -1,7 +1,7 @@
 Release Notes MDDE Software Version 1.4.0
 =========================================
 
-To report a bug please send an email to motec.service@ametek.com
+To report a bug please send an email to motec.bugreport@ametek.com
 
 new: 
 ----
