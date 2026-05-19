@@ -7,7 +7,7 @@ To report a bug please send an email to motec.bugreport@ametek.com
 New Features
 ------------
 initial release containing the general product features:
-- the Website 
+- Website 
   - Image Settings (brightness, exposure, fps, bitrate)
   - Output Streaming Settings (RTP, IP, Port)
   - Zones Settings (free hand drawing) 
@@ -18,15 +18,15 @@ initial release containing the general product features:
   - Live Image Preview
   - Software Update
   - Factory Reset  
-- the Person Detection
+- Person Detection
   - 30fps detection with our neural net
   - situation analyses (two zone detection classification)
   - tracking
 
-- the Streaming 
+- Streaming 
   - up to 30 fps 
   - full HD resolution
-  - H264
+  - RTP / RTSP / WebRtc (H264)
 
 Changes & Improvements: 
 -----------------------
